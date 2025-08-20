@@ -1,0 +1,20 @@
+[
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1755609392.384058,
+    "completed_at": 1755609392.788967,
+    "comments": [
+      "Great work! You have successfully used `git add` and `git commit` to modify the shopping list! Keep it up!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1755598107.145937,
+    "completed_at": 1755598107.654342,
+    "comments": [
+      "You successfully used git init to initialize this folder as a Git repository!"
+    ],
+    "status": "Completed"
+  }
+]
